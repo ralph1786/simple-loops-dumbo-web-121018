@@ -43,7 +43,7 @@ def until_iterator(number_of_times)
   # hint: use a counter to tell the until loop when to stop!
   phrase = "Welcome to Flatiron School's Web Development Course!"
   number_of_times = 0
-  until number_of_times == 7
+  until number_of_times == 7 do
   puts phrase
 end
 
